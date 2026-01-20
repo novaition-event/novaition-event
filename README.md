@@ -1,6 +1,6 @@
 <div align="center">
 
-  <img src="https://via.placeholder.com/800x200?text=NOVATION+AI+2026" alt="Novation Banner" width="100%" />
+ <img src="./logo.png" alt="Novation Logo" width="100%" />
 
   <br />
   <br />
