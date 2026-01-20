@@ -60,7 +60,7 @@ We use modern technologies to build our event platforms and projects:
 
 ### 📬 Connect With Us
   
-<a href="mailto:your-email@sltc.ac.lk">
+<a href="mailto:#">
   <img src="https://img.shields.io/badge/Email-Contact_Us-red?style=flat-square&logo=gmail" />
 </a>
 <a href="https://linkedin.com">
