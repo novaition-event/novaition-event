@@ -1,6 +1,6 @@
 <div align="center">
 
- <img src="./logo.png" alt="Novation Logo" width="100%" />
+ <img src="./white.png" alt="Novation Logo" width="100%" />
 
   <br />
   <br />
